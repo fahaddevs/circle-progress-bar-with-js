@@ -1,10 +1,7 @@
 # circle-progress-bar-with-js
 It's a circle progress bar.
 
-### Required js file
-*<script src="jquery-3.3.1.min.js"></script>
-*<script src="circle-progress.min.js"></script>
-
+### Code setup
 
 ``` html
     <script src="jquery-3.3.1.min.js"></script>
@@ -100,3 +97,5 @@ It's a circle progress bar.
     })(jQuery);	 
     </script>
 ```
+### Result 
+(https://photos.google.com/photo/AF1QipPw2j_1BsxTiGJ-d1Q0AIPbSKEWOKvGDLrj8hYA)
