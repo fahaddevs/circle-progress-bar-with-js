@@ -1,6 +1,12 @@
 # circle-progress-bar-with-js
 It's a circle progress bar.
 
+
+### Result 
+![Markdown Thumbnail](https://photos.google.com/photo/AF1QipPw2j_1BsxTiGJ-d1Q0AIPbSKEWOKvGDLrj8hYA)
+
+--- 
+
 ### Code setup
 
 ``` html
@@ -32,6 +38,86 @@ It's a circle progress bar.
             </div>
         </div>
     </div>
+
+```
+
+
+``` css
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+ul {
+    list-style: none;
+}
+h2 {
+    margin: 0;
+}
+.progressbar-section {
+    padding: 100px 0;
+}
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.skill-part {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.skill-item {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+    text-align: center;
+}
+.skill-item h2 {
+    font-size: 32px;
+    transform: translateY(-75px);
+}
+.sk-name {
+    font-weight: 400;
+    display: block;
+    transform: translateY(-25px);
+}
+
+.my-links {
+    text-align: center;
+margin-top: 100px;
+}
+.my-links h3 {
+    display: inline-block;
+    margin: 0 25px;
+}
+.my-links ul {
+    display: inline-block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.my-links ul li {
+    display: inline-block;
+}
+.my-links ul span {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    display: inline-block;
+    background-color: #000;
+    color: #fff;
+    font-size: 22px;
+}
+.my-links ul p {
+    margin: 0;
+}
+```
+
+``` javascript
     <script>
         (function($){
     'use strict';   
@@ -97,5 +183,3 @@ It's a circle progress bar.
     })(jQuery);	 
     </script>
 ```
-### Result 
-(https://photos.google.com/photo/AF1QipPw2j_1BsxTiGJ-d1Q0AIPbSKEWOKvGDLrj8hYA)
