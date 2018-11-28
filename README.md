@@ -192,6 +192,7 @@ margin-top: 100px;
 ##### If you're interested this project, Please contribute and hit the star button.
 
 | Social Medias | Links                                                      |
+| ------------- | ---------------------------------------------------------- |
 | Facebook      | [Facebook Profile](https://www.facebook.com/fahaddevs)     |
 | Linkedin      | [Linkedin Profile](https://www.linkedin.com/in/fahaddevs/) |
 | Twitter       | [Twitter Profile](https://twitter.com/fahaddevs)           |
