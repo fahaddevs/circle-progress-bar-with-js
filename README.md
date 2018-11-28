@@ -3,7 +3,7 @@ It's a circle progress bar.
 
 
 ### Result 
-![Markdown Thumbnail](https://photos.google.com/photo/AF1QipPw2j_1BsxTiGJ-d1Q0AIPbSKEWOKvGDLrj8hYA)
+![Markdown Thumbnail](result.png)
 
 --- 
 
